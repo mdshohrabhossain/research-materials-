@@ -45,8 +45,6 @@ They considered each loads as an individiual agent and each agent maintauns its 
 
 They used multi-agent reinforement learning for the decision making whereas several others works are done by only using single agent.  
 
-*How about using deep multi-level RL?*
-
 **Improvement**
 
 1. Time of use (ToU) prices could be taken into consideration to make it more sophisticated model which can effect the performance of the agent. 
