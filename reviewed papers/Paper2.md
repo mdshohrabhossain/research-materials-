@@ -24,7 +24,7 @@ The proposed method was validated by the use of [Pecan street data.](https://www
 
 In this paper, they used two reinforcement learning methods to accomplish the task. And deep neural network is used to aprroximate the value fucktion for each of the methods. 
 
-![](paper2.1.png.PNG)
+![](https://github.com/mdshohrabhossain/research-materials-/blob/master/Figures/paper2.1.PNG)
 
 **3. Novelty** 
 
