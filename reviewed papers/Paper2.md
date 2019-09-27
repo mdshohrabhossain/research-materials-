@@ -2,7 +2,7 @@
 
 ## Author: Elena Mocanu et al 
 ## Publisher: IEEE 
-------
+
 **0. Summary**
 
 The paper duscussed the benefit of using deep learning and reinforcement learning in the context of smart grid environment to perform on-line optimization of schedules for building energy management systems. They used two learning methods: 
