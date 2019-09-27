@@ -32,6 +32,6 @@ The use of deep policy gradient is quite rare in terms of building energy managm
 
 **4. Improvement** 
 
-1. More extensive research can be done to further evaluated the comparison between on-line and off-line learning
+1. More extensive research can be done to further evaluate the comparison between on-line and off-line learning
 
 2. They used single agent to do all the task while multi-agent concept can be applied to evaluate the performance of the given methods 
