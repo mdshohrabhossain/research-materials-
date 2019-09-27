@@ -18,7 +18,7 @@ The proposed method was validated by the use of [Pecan street data.](https://www
 
 In this paper, two price components are considered to formulate the cost minimization function. One is the price value set by the utility company and other one is the price value at which the utility company busy from the end-users at time, t. 
 
-2.2 Peak Reduction Probblem 
+2.2 Peak Reduction Problem 
 
 In this paper, the assume the price for elctricity generation and consumption are equal. Therefore, the cost minimization problem becomes a peak reduction problem. However, the fuction is extended considering the types of loads available such as shiftable, non-shiftable and controllable. 
 
@@ -26,7 +26,7 @@ In this paper, the assume the price for elctricity generation and consumption ar
 
 **2. Methodology** 
 
-In this paper, they used two reinforcement learning methods to accomplish the task. And deep neural network is used to aprroximate the value fucktion for each of the methods. 
+In this paper, they used two reinforcement learning methods to accomplish the task. And deep neural network is used to aprroximate the value funtion for each of the methods. 
 
 ![](https://github.com/mdshohrabhossain/research-materials-/blob/master/Figures/paper2.1.PNG)
 
