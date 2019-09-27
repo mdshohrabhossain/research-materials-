@@ -16,7 +16,11 @@ The proposed method was validated by the use of [Pecan street data.](https://www
 
 2.1 Cost Minimization Problem 
 
+In this paper, two price components are considered to formulate the cost minimization function. One is the price value set by the utility company and other one is the price value at which the utility company busy from the end-users at time, t. 
+
 2.2 Peak Reduction Probblem 
+
+In this paper, the assume the price for elctricity generation and consumption are equal. Therefore, the cost minimization problem becomes a peak reduction problem. However, the fuction is extended considering the types of loads available such as shiftable, non-shiftable and controllable. 
 
 2.3 Electrical Device Constraints 
 
